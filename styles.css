@@ -300,6 +300,12 @@ position: relative;
     padding: 25px 16px;
 }
 
+.js {
+    width: 66%;
+    translate: 0, 20px;
+    margin-top: -25px;
+}
+
 .language__list {
     display: flex;
     width: 100%;
